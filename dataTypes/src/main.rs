@@ -1,3 +1,6 @@
+/* Comments in rust ctrl+/
+ */
+
 fn main() {
     println!("Hello, world!");
     let _S:i32 = 5;
