@@ -2,7 +2,7 @@ fn main(){
     println!("Hello, World!");
 }
 
-
+//rustup docs  <--- run in terminal, it opens the ofline documentation in the browser
 
 
 /* 
